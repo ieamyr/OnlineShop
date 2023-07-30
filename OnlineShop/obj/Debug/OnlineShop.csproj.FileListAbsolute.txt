@@ -1,0 +1,8 @@
+G:\My Project\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.AssemblyReference.cache
+G:\My Project\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.SuggestedBindingRedirects.cache
+G:\My Project\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+G:\My Project\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+G:\My Project\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+G:\My Project\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+G:\My Project\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+G:\My Project\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
